@@ -2,7 +2,7 @@
 
 Administrateur Systèmes & Réseaux Junior
 
-[Portfolio](https://imnvthan.github.io) · [LinkedIn](https://www.linkedin.com/in/nathan-drancourt/)
+[Portfolio](https://nathan-drancourt.pages.dev) · [LinkedIn](https://www.linkedin.com/in/nathan-drancourt/)
 
 ## 💻 Compétences
 - Windows Server
@@ -26,4 +26,4 @@ Administrateur Systèmes & Réseaux Junior
 - 🖥️ [WebSync - Site statique auto-déployé depuis GitHub](https://github.com/ImNvthan/cron-site-sync)
 - 🐳 [Site Web docker](https://github.com/ImNvthan/Docker-SiteWeb)
 - 🕵️ [Homelab OSINT autopiloté sur Proxmox (LXC)](https://github.com/ImNvthan/proxmox-osint-homelab)
-- 👨‍💻 [Mon portfolio](https://imnvthan.github.io)
+- 👨‍💻 [Mon portfolio](https://nathan-drancourt.pages.dev)
