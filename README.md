@@ -34,5 +34,4 @@ Administrateur Systèmes & Réseaux Junior
 
 ### Homelab et projets perso
 - 🕵️ [proxmox-osint-homelab](https://github.com/nathan-drancourt/proxmox-osint-homelab) : homelab OSINT autopiloté sur Proxmox (LXC)
-- 🏠 [immo-radar](https://github.com/nathan-drancourt/immo-radar) : analyse gratuite des ventes immobilières (DVF) avec GitHub Actions
 - 👨‍💻 [Mon portfolio](https://nathan-drancourt.pages.dev)
