@@ -34,5 +34,5 @@ Administrateur Systèmes & Réseaux Junior
 
 ### Homelab et projets perso
 - 🕵️ [proxmox-osint-homelab](https://github.com/nathan-drancourt/proxmox-osint-homelab) : homelab OSINT autopiloté sur Proxmox (LXC)
-- 🕵️ [proxmox-logs-homelab](https://github.com/nathan-drancourt/proxmox-logs-homelab) : homelab LOGS sur Proxmox (LXC)
+- 📊​ [proxmox-logs-homelab](https://github.com/nathan-drancourt/proxmox-logs-homelab) : homelab LOGS sur Proxmox (LXC)
 - 👨‍💻 [Mon portfolio](https://nathan-drancourt.pages.dev)
